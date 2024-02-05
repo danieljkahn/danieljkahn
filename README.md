@@ -5,7 +5,8 @@
   - NextJS
   - AEM
   - Python, Django
-  - Data science
+  - Data science, visualizations
+  - Generative art
 - 🌱 I’m currently learning ...
   - Machine learning
 - 📫 How to reach me ...
