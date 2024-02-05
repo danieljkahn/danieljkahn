@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @danieljkahn
 - 👀 I’m interested in ...
-  - Javascript, React
+  - Javascript
+  - React
+  - NextJS
   - AEM
   - Python, Django
+  - Data science
 - 🌱 I’m currently learning ...
-  - NextJS
-- 💞️ I’m looking to collaborate on ...
+  - Machine learning
 - 📫 How to reach me ...
   - danieljkahn.com
 
